@@ -1,4 +1,2 @@
-/firebase/config/key.json
-/.env
-/src/firebase/config/key.json
 /node_modules
+/key.json
